@@ -1,6 +1,5 @@
 # ObstacleAssault
- Obstacle Assault - an Unreal(UE5) Project with C++
- 
+
 **Game Engine:** Unreal Engine 5  
 **Language and IDE:** C++ using Visual Studio Code
 
